@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+2019-05-19
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Explore US Bikeshare Data
+Uses a python program to look at Bikeshare data stats
+Data sources read stored as 'csv' files
 
 ### Files used
-Include the files used
+Python program - bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity lessons
