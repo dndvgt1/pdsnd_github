@@ -16,5 +16,8 @@ Bikeshare Project
 ### Files used
 Python program - bikeshare.py
 
+### City data filenames
+  * Chicago (chicago.csv)
+
 ### Credits
 Udacity lessons
