@@ -18,6 +18,7 @@ Python program - bikeshare.py
 
 ### City data filenames
   * Chicago (chicago.csv)
+  * New York City (new_york_city.csv)
 
 ### Credits
 Udacity lessons
